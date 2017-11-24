@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="거문고자리 유성우
+	일출 05:48 일몰 19:14
+	월출 03:14 월몰 14:28
+연중 4월 16일부터 25일까지 관측가능한 유성우로, 밤하늘 거문고자리를 기점으로
+유성우가 쏟아집니다. C/1861 G1 라는 혜성을 모혜성으로 삼으며 1시간에 20개 정도의 유성이 내리며, 22일 밤부터 23일 새벽까지 절정을 이룹니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

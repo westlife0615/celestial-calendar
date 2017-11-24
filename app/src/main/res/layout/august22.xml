@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="삭 , 개기일식
+	일출 05:54 일몰 19:16
+	월출 06:05 월몰 19:39
+태양의 몸체가 달에 가려진 채, 불그스름한 대기만이 지구에서 관측되는 개기일식이
+진행됩니다. 아쉽게도 오직 미국에서만 관측이 가능하답니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

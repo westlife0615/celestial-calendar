@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.androidtown.calendar3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_moon1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+    <activity android:name=".MainActivity">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+
+        <activity android:name=".December4"></activity>
+
+
+
+        <activity android:name=".December7">
+        </activity>
+
+        <activity android:name=".December9">
+        </activity>
+
+        <activity android:name=".December14">
+        </activity>
+
+        <activity android:name=".December18">
+        </activity>
+
+        <activity android:name=".December21">
+        </activity>
+
+        <activity android:name=".December23">
+        </activity>
+
+
+        <activity android:name=".December26">
+        </activity>
+        <activity android:name=".April1">
+        </activity>
+        <activity android:name=".April11">
+        </activity><activity android:name=".April17">
+    </activity><activity android:name=".April19">
+    </activity><activity android:name=".April22">
+    </activity><activity android:name=".April26">
+    </activity><activity android:name=".April30">
+    </activity><activity android:name=".April4">
+    </activity><activity android:name=".April8">
+    </activity><activity android:name=".August7">
+    </activity><activity android:name=".August8">
+    </activity>
+        <activity android:name=".August13">
+        </activity>
+
+        <activity android:name=".August15">
+        </activity>
+        <activity android:name=".August22">
+        </activity>
+        <activity android:name=".August29">
+        </activity>
+
+        <activity android:name=".February1">
+        </activity>
+        <activity android:name=".February4">
+        </activity>
+        <activity android:name=".February6"/>
+        <activity android:name=".February11"/>
+        <activity android:name=".February15"/>
+        <activity android:name=".February19"/>
+        <activity android:name=".February26"/>
+        <activity android:name=".January1"/>
+        <activity android:name=".January2"/>
+        <activity android:name=".January3"/>
+        <activity android:name=".January4"/>
+        <activity android:name=".January6"/>
+        <activity android:name=".January10"/>
+        <activity android:name=".January12"/>
+        <activity android:name=".January19"/>
+        <activity android:name=".January20"/>
+        <activity android:name=".January26"/>
+        <activity android:name=".January31"/>
+        <activity android:name=".July1"/>
+        <activity android:name=".July7"/>
+        <activity android:name=".July9"/>
+        <activity android:name=".July17"/>
+        <activity android:name=".July20"/>
+        <activity android:name=".July23"/>
+        <activity android:name=".July30"/>
+        <activity android:name=".July31"/>
+        <activity android:name=".June1"/>
+        <activity android:name=".June3"/>
+        <activity android:name=".June5"/>
+        <activity android:name=".June9"/>
+        <activity android:name=".June15"/>
+        <activity android:name=".June17"/>
+        <activity android:name=".Jun21"/>
+        <activity android:name=".June24"/>
+        <activity android:name=".March1"/>
+        <activity android:name=".March5"/>
+        <activity android:name=".March10"/>
+        <activity android:name=".March11"/>
+        <activity android:name=".March12"/>
+        <activity android:name=".March15"/>
+        <activity android:name=".March20"/>
+        <activity android:name=".May3"/>
+        <activity android:name=".May4"/>
+        <activity android:name=".May6"/>
+        <activity android:name=".May9"/>
+        <activity android:name=".May11"/>
+        <activity android:name=".May18"/>
+        <activity android:name=".May19"/>
+        <activity android:name=".May26"/>
+        <activity android:name=".May31"/>
+        <activity android:name=".November4"/>
+        <activity android:name=".November7"/>
+        <activity android:name=".November11"/>
+        <activity android:name=".November12"/>
+        <activity android:name=".November18"/>
+        <activity android:name=".November22"/>
+        <activity android:name=".November24"/>
+        <activity android:name=".November27"/>
+        <activity android:name=".October6"/>
+        <activity android:name=".October8"/>
+        <activity android:name=".October10"/>
+        <activity android:name=".October12"/>
+        <activity android:name=".October18"/>
+        <activity android:name=".October20"/>
+        <activity android:name=".October21"/>
+        <activity android:name=".October23"/>
+        <activity android:name=".October24"/>
+        <activity android:name=".October28"/>
+        <activity android:name=".September5"/>
+        <activity android:name=".September6"/>
+        <activity android:name=".September7"/>
+        <activity android:name=".September12"/>
+        <activity android:name=".September13"/>
+        <activity android:name=".September17"/>
+        <activity android:name=".September18"/>
+        <activity android:name=".September20"/>
+        <activity android:name=".September23"/>
+        <activity android:name=".September27"/>
+
+    </application>
+</manifest>

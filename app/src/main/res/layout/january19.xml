@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="수성의 서방최대이각
+	일출 07:44 일몰 17:42
+	월출 00:43 월몰 11:44
+최대이각이 24도이다. 24도 서방이각의 수성은 일출 전 약 1시간 가량 동쪽하늘에서 관측됩니다.
+일출 직전의 작은 별이 바로 수성에 해당합니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

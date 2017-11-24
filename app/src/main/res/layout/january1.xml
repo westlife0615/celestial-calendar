@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="신정
+	일출: 07:47 일몰 : 17:24
+	월출: 09:34  월몰 : 20:21"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

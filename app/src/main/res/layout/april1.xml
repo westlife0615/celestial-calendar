@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="수성의 동방최대이각
+	일출 06:18 일몰 18:55
+	월출 9:19 월몰 23:37
+수성의 동방이각이 19도인 날로, 해가 저문 이후 서쪽하늘에서 관측됩니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

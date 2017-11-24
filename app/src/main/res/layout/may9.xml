@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="팬스타스 혜성 근일점 통과
+	일출 05:29 일몰 17:53
+	월출 19:29 월몰 04:46
+2016년 3월 22일 역사상 지구를 스쳐갔던 혜성들 중 3번 째로 가까웠던 혜성인
+팬스타스 혜성이 근일점을 통과합니다. 천체의 궤도 중 태양과 가장 가까운 위치를 뜻합니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="달과 토성의 근접
+	일출 06:49 일몰 17:43
+	월출 10:35 월몰 20:52
+달과 토성이 가까이 위치하는 날로 밤하늘 달 부근의 작은 별이 바로 토성에 해당합니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

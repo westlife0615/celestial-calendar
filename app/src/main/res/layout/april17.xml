@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="달과 토성의 근접
+	일출 5:55 일몰 19:09
+	월출 0:00 월몰 09:53
+토성과 달이 가장 근접한 날로, 달 주의에 떠있는 토성을 관측할 수 있습니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

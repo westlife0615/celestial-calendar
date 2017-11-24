@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="추분
+	일출 06:20 일몰 18:28
+	월출 09:01 월몰 20:25
+24절기 중 16번째 절기로 길었던 낮이 점차 짧아져 밤낮의 길이가 같아지는 시점입니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="입춘 , 상현달
+	일출 07:33 일몰 17:59
+	월출 11:54 월몰 00:34
+입춘은 24절기 중 첫 째 절기로써 봄이 왔음을 알립니다. 주로 입춘대길, 건양다경의 문구를 친지 간에 주고 받습니다."
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

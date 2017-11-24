@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="목성 충
+	일출 06:08 일몰 19:01
+	월출 16:08 월몰 04:35
+목성이 충의 위치에 놓입니다. 충이란 지구와 태양, 목성이 나란히 위치하는 시기로 일몰부터 다음날 일출까지 밤하늘에서 목성을 확인할 수 있습니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

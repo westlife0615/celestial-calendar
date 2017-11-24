@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="오리온자리 유성우
+	일출 06:46 일몰 17:47
+	월출 07:47 월몰 18:57
+겨울철 별자리인 오리온자리에서 유성우가 내립니다. 핼리혜성을 모혜성으로 하는 유성우로 1시간에 20개의 유성이 쏟아집니다.
+21일 밤을 시작으로 22일 새벽까지 절정이 이릅니다.
+
+
+
+"        android:textColor="@android:color/white"
+
+        android:background="@drawable/background"/>
+
+</LinearLayout>

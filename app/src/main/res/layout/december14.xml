@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="쌍둥이자리 유성우
+	일출 07:39 일몰 17:15
+	월출 03:33 월몰 15:00
+ 3200 파에톤에 의해 유발되는 유성우입니다. 겨울별자리인 쌍둥이자리를 유심히 관찰하면
+시간당 120개의 유성우가 쏟아지는 모습을 볼 수 있습니다."
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="정월대보름, 부분 월식
+	일출 07:26 일몰 18:07
+	월출 18:27 월몰 07:22
+음력을 1월 15일에 해당하는 날로 새해 첫 보름달이 떠오는 날입니다.
+세시풍속으로 오곡밥을 지어먹는다. 뿐만 아니라 부분월식도 함께 동반입니다. 하지만 우리나라에서는 아쉽게 관측할 수 없습니다.
+다만 한국보다 서쪽에 위치한 중국이나 동남아 그외 대부분의 국가에선 관측이 가능합니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

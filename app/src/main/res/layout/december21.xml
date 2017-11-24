@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="일출 07:43 일몰17:17
+        월출 09:38 월몰19:57
+        작은곰자리 유성우는 터틀 혜성을 모혜성으로 삼는 유성우이다.
+시간 당 5~10개의 유성이 낙하하는 소규모의 유성우이며, 특히 21일 밤부터 22일 새벽까지 집중적으로 관찰될 예정이다.
+21일 일찍 저문 초승달 덕에 어두운 하늘은 유성우를 한층 더 돋보이게 한다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

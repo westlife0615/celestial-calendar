@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="우수
+	일출 07:18 일몰 18:14
+	월출 00:20 월몰 11:20
+ 한해의 24절기 중 2번째 절기인 우수입니다. 우수는 눈이 녹아서 비가 된다는 말에서 유래된 절기로 추운 겨울이 가고
+계절상 봄의 도래를 뜻합니다. 이 시기부터 꽃샘추위가 시작됩니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

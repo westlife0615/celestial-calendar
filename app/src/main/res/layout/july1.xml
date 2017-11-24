@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="상현달 , 달과 목성의 근접
+	일출 05:14 일몰 19:57
+	월출 12:44 월몰 00:21
+달과 목성이 가장 근접한 날입니다. 오늘 밤 반달을 찾아보면 근처에 떠있는 목성을 관측할 수 있습니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

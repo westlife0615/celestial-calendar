@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 사자자리 유성우
+	일출 07:15 일몰 17:19
+	월출 06:37 월몰 17:31
+템펠-터틀 혜성을 모혜성으로 삼으며 사자자리에서 관측되는 유성우입니다. 절정기엔 시간당 15개의 유성이 쏟아지며
+17일 밤부터 다음날 새벽까지 유성우를 관측할 수 있습니다. 특히 오늘밤은 달이 뜨지 않아 밤하늘이 어두워 선명한 유성우를 관측할 수 있습니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

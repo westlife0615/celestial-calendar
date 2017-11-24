@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="금환일식
+	일출 07:08 일몰 1:23
+	월출 06:47 월몰 18:02
+금환일식이란 일식의 한 종류입니다. 다만 달이 태양을 완전히 가리지 못하여, 여남은 부분이 반지와 같이 고리의 형태로 보여지기에 금환일식이라 명명되었습니다.
+이번 일식은 남아메리카 일부, 아프리카 일부 지역에서만 관측되므로 아쉽게도 우리나라에서는 관측할 수가 없습니다."
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

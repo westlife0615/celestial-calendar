@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 달과 목성의 근접
+	일출 06:44 일몰 18:39
+	월출 21:13 월몰 08:12
+달과 목성이 가장 근접한 날입니다. 해가 지고 3시간 이후 달이 뜨는 관계로
+월출 이후에 목성관측이 가능합니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

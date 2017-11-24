@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="달과 화성의 근접 , 초승달
+	일출 07:36 일몰 17:56
+	월출 10:03 월몰 22:23
+달과 화성이 4.5도의 이각으로 근접해 있다. 일몰 시각인 17:56 이후
+초승달 주변을 관찰했을 때 보이는 작은 행성이 바로 화성이다."
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

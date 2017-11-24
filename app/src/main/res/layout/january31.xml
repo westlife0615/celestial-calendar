@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="목성과 스피카의 근접
+	일출 07:37 일몰 17:55
+	월출 17:55 월몰 21:19
+스피카는 처녀자리를 구성하는 별 중 가장 밝은 쌍성이다. 스피카와 목성이 나란히 관측되는 날이다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

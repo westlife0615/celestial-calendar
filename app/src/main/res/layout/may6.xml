@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 물병자리 에타 유성우
+	일출 05:32 일몰 19:26
+	월출 15:02 월몰 03:12
+물병자리를 구성하는 별 중 에타 별 부근에서 유성우가 관찰된다하여 물병자리 에타 유성우라고 불리웁니다.
+4월 19일에서 5월 28일 사이에 관측이 가능하며 절정인 5월 6일 밤에는 시간당 60개의 유성이 쏟아지는 것을 감상할 수 있습니다.
+이는 친숙한 핼리 혜성을 모혜성으로 삼습니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 부분 월식
+	일출 05:42 일몰 19:33
+	월출 19:52 월몰 05:54
+
+지구의 그림자가 달을 가리는 부분월식이 일어납니다.
+운이 좋게도 한국에서도 부분월식을 관측할 수 있다고 하네요.
+서울을 기준으로 오전 2시 22분경 시작되어 3시 21분경에 최대가 되고
+4시 19분까지 이어질 예정입니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

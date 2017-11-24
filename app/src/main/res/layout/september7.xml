@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="백로
+	일출 06:07 일몰 18:53
+	월출 19:37 월몰 06:45
+흰 이슬이라는 의미로 24절기 중 15번째 절기입니다.
+본격적으로 가을이 시작되는 시기로 맑은 날씨가 지속됩니다..
+"    android:textColor="@android:color/white"
+    android:background="@drawable/background"/>
+
+
+</LinearLayout>

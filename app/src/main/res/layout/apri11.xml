@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="보름달, 목성과 달 근접
+	일출 06:03 일몰 19:04
+	월출 19:03 월몰 06:12
+목성과 달이 가장 근접한 날입니다. 보름달과 목성을 동시에 관찰할 수 있습니다.
+"
+        android:textColor="@android:color/white"
+    android:background="@drawable/background"/>
+
+</LinearLayout>

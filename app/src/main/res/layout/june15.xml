@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 토성의 충
+	일출 05:10 일몰 19:55
+	월출 23:50 월몰 10:06
+외행성인 토성의 위치가 충에 해당하는 날입니다. 오늘 밤은 일몰시각부터 일출 시각까지 밤하늘에서 토성이 관측가능합니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

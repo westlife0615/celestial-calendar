@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 새벽 2시 24분
+	일출 06:51 일몰 18:34
+	월출 16:13 월몰 05:17
+	엥케 혜성이 태양과 가장 가까워지는 지점인 근일점을 통과합니다.
+	앵케 혜성을 지금까지 알려진 혜성 가운데 주기가 가장 짧아
+	3.31년에 불과합니다 우리나라에서는 근일점 통과 장면을 볼 수 없지만 2월 말까지는 저녁 하늘에세 천체망원경으로
+	관측할 수 있습니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

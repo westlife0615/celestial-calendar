@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="상강
+	일출 06:48 일몰 17:45
+	월출 09:41 월몰 2-:10
+24절기 중 18번째 절기입니다. 서리가 내린다는 의미로 공기가 얼어붙을 정도의 기온이 내려가는 시기입니다.
+
+
+
+"        android:textColor="@android:color/white"
+
+        android:background="@drawable/background"/>
+
+</LinearLayout>

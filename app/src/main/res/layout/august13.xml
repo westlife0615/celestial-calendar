@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="페르세우스 자리 유성우
+	일출 05:46 일몰 19:27
+	월출 22:46 월몰 11:01
+스위프트-터틀 이라는 모혜성에 의해 유성우가 쏟아집니다. 많은 수의 밝은 유성이 쏟아져
+1년 중 가장 화려한 유성우라고 합니다. 13일 밤부터 14일 새벽까지가 절정이라고 합니다.
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

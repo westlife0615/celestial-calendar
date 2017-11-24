@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" 춘분
+	일출 07:16 월출 18:16
+	월춸 02:08 월몰 12:36
+
+24절기 중 4번째 절기로 밤과 낮의 길이가 동일한 날을 뜻합니다.
+춘분을 기점으로 낮의 시간이 밤을 역전합니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/december21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="수성의 동방 최대 이각
+	일출 05:34 일몰 19:42
+	월출 12:28 월몰 23:56
+최대 이각이 27도로써 일몰 이후 대략 2시간 정도 서쪽하늘에서 수성을 관측할 수 있습니다.
+
+"
+    android:background="@drawable/background"
+    android:textColor="@android:color/white"/>
+
+</LinearLayout>
